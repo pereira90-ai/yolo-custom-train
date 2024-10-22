@@ -1,0 +1,6 @@
+
+train: doors-detection/train/images
+val:  doors-detection/val/images
+test: doors-detection/val/images
+nc: 1
+names: ['door']
